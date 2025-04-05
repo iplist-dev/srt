@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:4
+#EXT-X-VERSION:3
+#EXT-MEDIA-SEQUENCE:0
+#EXTINF:4,
+https://raw.githubusercontent.com/iplist-dev/srt/refs/heads/main/HMN-545-id.srt
+#EXT-X-ENDLIST
